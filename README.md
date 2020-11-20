@@ -15,6 +15,7 @@ I'm a Full Stack software developer who is passionate about coding always willin
 
 - 👯 I’m looking to collaborate on interesting projects with great people.
 
+<details>
 #### When away from my computer I love
   <summary> <b> Fun Facts </b> </summary>
   
@@ -24,6 +25,7 @@ I'm a Full Stack software developer who is passionate about coding always willin
   * to go to the theater/museum 🎭 🖼
   * eat delicious food 🍝
   * travel 🛣 🛤 🌍
+</details>
   
 ### 📫 How to reach me:
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/ekaterina-zarudnaya-986270180/) 
