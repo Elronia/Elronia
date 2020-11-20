@@ -16,8 +16,8 @@ I'm a Full Stack software developer who is passionate about coding always willin
 - 👯 I’m looking to collaborate on interesting projects with great people.
 
 <details>
-#### When away from my computer I love
   <summary> <b> Fun Facts </b> </summary>
+  When away from my computer I love
   
   * to go for a walk 🏞
   * swimming/hiking 🏊🏻‍♀️ 🥾
