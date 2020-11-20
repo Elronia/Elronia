@@ -5,7 +5,7 @@ I'm a Full Stack software developer who is passionate about coding always willin
 
 #### Built projects using current technologies 👩🏻‍💻
 * Ruby on Rails
-* JavaScript
+* JavaScript 
 * React
 
 - 🔭🧐 I’m currently working on sharpening my coding skills.
@@ -20,11 +20,11 @@ I'm a Full Stack software developer who is passionate about coding always willin
   When away from my computer I love
   
   * going for a walk 🏞
+  * traveling 🛣 🛤 🌍
   * swimming/hiking 🏊🏻‍♀️ 🥾
   * reading a good book 📖
   * going to the theater/museum 🎭 🖼
   * eating delicious food 🍝
-  * traveling 🛣 🛤 🌍
 </details>
   
 ### 📫 How to reach me:
