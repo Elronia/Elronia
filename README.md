@@ -1,8 +1,5 @@
 ### Hi, I'm Katherine! 👋👩‍💻
 
-<!--
-**Elronia/Elronia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### About me 
 I'm a Full Stack software developer who is passionate about coding always willing to deepen my knowledge and understanding.
 
@@ -31,4 +28,7 @@ I'm a Full Stack software developer who is passionate about coding always willin
 ### 📫 How to reach me:
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/ekaterina-zarudnaya-986270180/) 
 - ✍🏻 Sharing what I've learned on [Medium](https://zar-catherine.medium.com/)
+
+<!--
+**Elronia/Elronia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
