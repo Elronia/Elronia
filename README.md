@@ -19,12 +19,12 @@ I'm a Full Stack software developer who is passionate about coding always willin
   <summary> <b> Fun Facts </b> </summary>
   When away from my computer I love
   
-  * to go for a walk 🏞
+  * going for a walk 🏞
   * swimming/hiking 🏊🏻‍♀️ 🥾
-  * read a good book 📖
-  * to go to the theater/museum 🎭 🖼
-  * eat delicious food 🍝
-  * travel 🛣 🛤 🌍
+  * reading a good book 📖
+  * going to the theater/museum 🎭 🖼
+  * eating delicious food 🍝
+  * traveling 🛣 🛤 🌍
 </details>
   
 ### 📫 How to reach me:
