@@ -28,8 +28,8 @@ I'm a Full Stack software developer who is passionate about coding always willin
 </details>
   
 ### 📫 How to reach me:
-- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/ekaterina-zarudnaya-986270180/) 
-- ✍🏻 Sharing what I've learned on [Medium](https://zar-catherine.medium.com/)
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/ekaterina-zarudnaya-986270180/) 🤝
+- Sharing what I've learned on [Medium](https://zar-catherine.medium.com/) ✍🏻
 
 <!--
 **Elronia/Elronia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
