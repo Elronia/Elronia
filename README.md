@@ -31,8 +31,8 @@ I'm a Full Stack software developer who is passionate about coding always willin
 [![github stats](https://github-readme-stats.vercel.app/api?username=Elronia&show_icons=true&theme=material-palenight)](https://github.com/Elronia/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elronia&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/Elronia/github-readme-stats)
   
 ### 📫 How to reach me:
-- Let's connect on [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/ekaterina-zarudnaya-986270180/) 🤝
-- Sharing what I've learned on [[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://zar-catherine.medium.com/) ✍🏻
+- Let's connect on [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ekaterina-zarudnaya-986270180/) 🤝
+- Sharing what I've learned on [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://zar-catherine.medium.com/) ✍🏻
 
 <!--
 **Elronia/Elronia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
