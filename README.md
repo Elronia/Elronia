@@ -8,10 +8,7 @@ I'm a Full Stack software developer who is passionate about coding always willin
 * JavaScript 
 * React
 
-- 🔭🧐 I’m currently working on sharpening my coding skills.
-- 🌱🤓 Learning JavaScript, React and Python.
-
-- 😄 Pronouns: she/her
+- 🙍🏻‍♀️ Pronouns: she/her
 
 - 👯 I’m looking to collaborate on interesting projects with great people.
 
